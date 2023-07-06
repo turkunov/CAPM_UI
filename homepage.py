@@ -12,7 +12,7 @@ st.markdown('''
 This app lets you automatically create a single factor
 CAPM model based on interactive portfolio of predefined stocks: `TSLA`,
 `MSFT`, `AAPL`, `GOOGL` and `META`. You can read more on what is CAPM model, 
-            why and how it can be used in [my research](paper.ipynb).
+            why and how it can be used in [my research](https://github.com/turkunov/CAPM_UI/blob/main/paper.ipynb).
 ''')
 st.sidebar.info('''
 Tweak parameters below before passing them to the model. For parameters explanation, please,
